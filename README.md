@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jayanta
-- 👀 I’m currently working on Natural Language Processing
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K.
+- 🌱 I’m currently working on Neural Network based NLP Systems.
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: mail- paljayant1998@gmail.com
 
