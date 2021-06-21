@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on Neural Network based NLP Systems.
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: mail- paljayant1998@gmail.com
--  ❗ Connect with me on LinkedIn:  ![LinkedIn](https://www.linkedin.com/in/jayanta-kumar-pal-967240172/)
+-  ❗ Connect with me on LinkedIn: https://www.linkedin.com/in/jayanta-kumar-pal-967240172/
 
 <!---
 Jayant017/Jayant017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
