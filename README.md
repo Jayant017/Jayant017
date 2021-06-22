@@ -1,4 +1,3 @@
-![gif](b)
 
 -  👋 Hi, I’m Jayanta
 - 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K.
