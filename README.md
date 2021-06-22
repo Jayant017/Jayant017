@@ -10,7 +10,7 @@
  
 ![Jayanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=jayantapy&color=green)
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=jayantapy&color=blue)
 <!---
 Jayant017/Jayant017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
