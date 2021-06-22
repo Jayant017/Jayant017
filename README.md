@@ -1,4 +1,4 @@
-
+![jayant](jayant.gif)
 -  👋 Hi, I’m Jayanta
 - 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K.
 - 🌱 I’m currently working on Neural Network based NLP Systems.
