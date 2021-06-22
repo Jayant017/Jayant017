@@ -1,5 +1,5 @@
 ![jayant](jayant.gif) <br> 
-<h3>ABOUTME</h3>
+<h3>ABOUT ME</h3>
 - 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
 - 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K. <br>
 - 🌱 I’m currently working on Neural Network based NLP Systems. <br>
