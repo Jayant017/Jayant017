@@ -1,6 +1,8 @@
 
 ![jayant](jayant.gif)
 
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=jayantapy&color=green)
+
 <h3>ABOUT ME</h3>
 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K. <br>
@@ -8,11 +10,11 @@
 💞 I’m looking to collaborate on Machine Learning or Deep Learning Projects. <br>
 📫 Feel free to reach out to me at: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
  💬 Let's connect on : <a href="https://www.linkedin.com/in/jayanta-kumar-pal-967240172/">LinkedIn </a> <br>
-✨ Fun Fact- There are more trees on earth than stars in the milky way.
+✨ Fun Fact: There are more trees on earth than stars in the milky way!!
 <br><br>
+
 ![Jayanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical)
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=jayantapy&color=blue)
 
  
  <!---
