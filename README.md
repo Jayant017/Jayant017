@@ -7,7 +7,7 @@
 🌱 I’m currently working on Neural Network based NLP Systems. <br>
 💞 I’m looking to collaborate on Machine Learning or Deep Learning Projects. <br>
 📫 Feel free to reach out to me at: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
- 👀 Let's connect on : <a href="https://www.linkedin.com/in/jayanta-kumar-pal-967240172/">LinkedIn </a> <br>
+ 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayanta-kumar-pal-967240172/">LinkedIn </a> <br>
 
 <br><br>
 ![Jayanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical)
