@@ -1,7 +1,7 @@
 
 ![jayant](jayant.gif)
 
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=jayantapy&color=green)
+![Visitors](https://komarev.com/ghpvc/?username=jayantapy&color=green)
 
 <h3>ABOUT ME</h3>
 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
