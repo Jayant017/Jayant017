@@ -2,6 +2,7 @@
 ![jayant](jayant.gif)
 
 ![Visitors](https://komarev.com/ghpvc/?username=jayantapy&color=green)
+<br>
 
 **ABOUT ME**
 * 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
@@ -17,9 +18,9 @@ I am currently working on:
 * 😉 Personal Portfolio Website. <br>
 <br>
 
-![Jayanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical)
- 
- [![Jayanta's github activity graph](https://activity-graph.herokuapp.com/graph?username=jayantapy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Jayanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayantapy&theme=dark)
+
+
 
  <!---
 Jayant017/Jayant017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
