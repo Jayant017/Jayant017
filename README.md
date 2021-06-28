@@ -19,6 +19,8 @@ I am currently working on:
 
 ![Jayanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical)
  
+ [![Jayanta's github activity graph](https://activity-graph.herokuapp.com/graph?username=jayantapy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  <!---
 Jayant017/Jayant017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
