@@ -1,7 +1,7 @@
 
 ![jayant](jayant.gif)
 
-![Visitors](https://komarev.com/ghpvc/?username=jayantapy&color=green)
+![](https://komarev.com/ghpvc/?username=jayantapy&color=green&label=Visitors)
 <br>
 
 **ABOUT ME**
@@ -18,8 +18,7 @@ I am currently working on:
 * 😉 Personal Portfolio Website. <br>
 <br>
 
-![Jayanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayantapy&theme=dark)
-
+<img src="https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical"/> 
 
 
  <!---
