@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=jayantapy&color=green&label=Visitors)
 <br>
-
 **ABOUT ME**
 
 * 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
