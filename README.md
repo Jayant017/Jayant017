@@ -5,6 +5,7 @@
 <br>
 
 **ABOUT ME**
+
 * 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
 * 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K. <br>
 * 👯 I’m looking to collaborate on Machine Learning or Deep Learning Projects. <br>
