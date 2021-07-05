@@ -19,8 +19,13 @@ I am currently working on:
 * 😉 Personal Portfolio Website. <br>
 <br>
 <p align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+</p>
+<!-- STREAK STATS
+<p align = "center">
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayantapy&theme=onedark_duo" />
 </p>
+-->
 <!--
 <div align="center">
   <div style="display: flex;">
