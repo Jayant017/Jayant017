@@ -1,4 +1,3 @@
-
 ![jayant](jayant.gif)
 
 ![](https://komarev.com/ghpvc/?username=jayantapy&color=green&label=Visitors)
@@ -18,9 +17,9 @@ I am currently working on:
 * 🌱 Neural Network based NLP Systems. <br>
 * 😉 Personal Portfolio Website. <br>
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jayantapy&show_icons=true&theme=radical"/> 
-
+<p align = "center">
+   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayantapy&theme=onedark_duo" />
+</p>
 
  <!---
 Jayant017/Jayant017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
