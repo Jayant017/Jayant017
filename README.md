@@ -6,7 +6,7 @@
 
 **ABOUT ME**
 
-* 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
+* 🔭 I'm into Data Analytics,Machine Learning,Deep Learning a nd NLP. <br>
 * 👀 I’m currently pursuing Masters in Data Analytics from IIITM-K. <br>
 * 👯 I’m looking to collaborate on Machine Learning or Deep Learning Projects. <br>
 * 📫 How to reach me: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
