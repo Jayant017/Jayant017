@@ -10,7 +10,7 @@
 * 👀 I’m currently learning Power BI,MLOPs. <br>
 * 👯 I’m looking to collaborate on Machine Learning or Deep Learning Projects. <br>
 * 📫 How to reach me: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
-* 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayanta-kumar-pal-967240172/">LinkedIn </a> <br>
+* 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayantakp/">LinkedIn </a> <br>
 <br>
 
 I am currently working on:
