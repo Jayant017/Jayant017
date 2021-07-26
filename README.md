@@ -9,6 +9,7 @@
 * 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
 * 👀 I’m currently learning <code> Power BI</code>,<code>MLOPs</code> <br>
 * 👯 I’m looking to collaborate on Machine Learning or Deep Learning Projects. <br>
+* ✨ Check out some of articles in : <a href="https://jayant017.medium.com/" >Medium</a> <br> 
 * 📫 How to reach me: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
 * 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayantakp/">LinkedIn </a> <br>
 <br>
