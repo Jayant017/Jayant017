@@ -4,7 +4,9 @@
 <!-- ![](https://komarev.com/ghpvc/?username=jayantkp&color=green&label=Visitors) -->
 <br>
 
-**ABOUT ME**
+**ABOUT ME** <br>
+
+https://jayantkp.github.io/me.jayant/
 
 * 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
 * 👀 I’m currently learning a lot of things. <br>
@@ -16,7 +18,6 @@
 
 I am currently working on:
 * 🌱 Neural Network based NLP Systems. <br>
-* 😉 Personal Portfolio Website. <br>
 <br>
 <p align = "center">
    <img src = "https://github-readme-stats.vercel.app/api?username=jayantkp&show_icons=true&theme=radical" />
