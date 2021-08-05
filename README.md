@@ -1,7 +1,7 @@
 ![jayant](jayant.gif)
 
 
- ![](https://komarev.com/ghpvc/?username=jayantkp&color=green&label=Visitors) 
+<!-- [](https://komarev.com/ghpvc/?username=jayantkp&color=green&label=Visitors) -->
 <br>
 
 **ABOUT ME** <br>
@@ -22,11 +22,11 @@ I am currently working on:
 <p align = "center">
    <img src = "https://github-readme-stats.vercel.app/api?username=jayantkp&show_icons=true&theme=radical" />
 </p>
-<!-- STREAK STATS
+ STREAK STATS
 <p align = "center">
-   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayantapy&theme=onedark_duo" />
+   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayantkp&theme=onedark_duo" />
 </p>
--->
+
 <!--
 <div align="center">
   <div style="display: flex;">
