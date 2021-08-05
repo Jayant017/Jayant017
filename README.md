@@ -1,7 +1,7 @@
 ![jayant](jayant.gif)
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=jayantkp&color=green&label=Visitors) -->
+ ![](https://komarev.com/ghpvc/?username=jayantkp&color=green&label=Visitors) 
 <br>
 
 **ABOUT ME** <br>
