@@ -6,8 +6,6 @@
 
 **ABOUT ME** <br>
 
-https://jayantkp.github.io/me.jayant/
-
 * 🔭 I'm into Data Analytics,Machine Learning,Deep Learning and NLP. <br>
 * 👀 I’m currently learning a lot of things. <br>
 * 👯 I’m looking to collaborate on Machine Learning or Deep Learning Projects. <br>
