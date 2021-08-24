@@ -22,7 +22,7 @@ I am currently working on:
 <p align = "center">
    <img src = "https://github-readme-stats.vercel.app/api?username=jayantkp&show_icons=true&theme=radical" />
 </p>
-<!-- STREAK STATS
+<!--STREAK STATS
 <p align = "center">
    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=jayantkp&theme=onedark_duo" />
 </p> -->
