@@ -8,7 +8,7 @@
 
 https://jayantkp.github.io/me.jayant/
 
-* 🔭 I'm into Programming,Data Analytics,Data Visualization,Machine Learning and Deep Learning.<br>
+* 🔭 I'm into Programming,Data Analytics,Data Visualization,and Machine Learning.<br>
 * 👀 I’m currently learning <code>BI Tools</code>. <br>
 * ✨ Check out some of my articles in : <a href="https://jayant017.medium.com/" >Medium</a> <br> 
 * 📫 How to reach me: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
