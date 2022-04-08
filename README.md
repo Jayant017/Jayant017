@@ -3,6 +3,7 @@
 
 <!-- [](https://komarev.com/ghpvc/?username=jayantkp&color=green&label=Visitors) -->
 <br>
+Be Intentionally Ignorant. <br>
 
 **ABOUT ME** <br>
 
