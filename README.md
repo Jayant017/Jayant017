@@ -10,7 +10,7 @@ Be Intentionally Ignorant. <br>
 https://jayantkp.github.io/me.jayant/
 
 * 🔭 I'm into Data Analytics,Classical ML, NLP and Statistical Data Analysis.<br>
-* 👀 I’m currently exploring more about <code>BI Tools</code>, <code>NLP</code>. <br>
+* 👀 I’m currently exploring more about <code>NLP</code>. <br>
 * ✨ Check out some of my articles in : <a href="https://jayant017.medium.com/" >Medium</a> <br> 
 * 📫 How to reach me: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
 * 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayantakp/">LinkedIn </a> <br>
