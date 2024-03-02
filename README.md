@@ -9,14 +9,12 @@ Be Intentionally Ignorant. <br>
 
 https://jayantkp.github.io/me.jayant/
 
-* 🔭 I'm into Data Analytics,Classical ML, NLP and Statistical Data Analysis.<br>
-* 👀 I’m currently exploring more about <code>NLP</code>. <br>
+* 🔭 I'm into Data Science, Deep Learning,Classical ML, Generative AI, NLP and Statistical Data Analysis.<br>
+* 👀 I’m currently exploring more about <code>LangChain</code>. <br>
 * ✨ Check out some of my articles in : <a href="https://jayant017.medium.com/" >Medium</a> <br> 
 * 📫 How to reach me: <a href="mailto:paljayant1998@gmail.com">paljayant1998@gmail.com</a> <br>
-* 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayantakp/">LinkedIn </a> <br>
+* 💬 Let's connect on : <a href="https://www.linkedin.com/in/jayantkp/">LinkedIn </a> <br>
 <br>
-
-* 🌱 I am currently working in a research project on 'Neural Network based NLP Systems'. <br>
 <br>
 <p align = "center">
    <img src = "https://github-readme-stats.vercel.app/api?username=jayantkp&show_icons=true&theme=radical" />
